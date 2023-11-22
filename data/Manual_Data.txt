@@ -1,0 +1,2 @@
+Should manually get Adidas recycle percentage.
+Recycle points = Recycle percentage * Product price
