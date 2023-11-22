@@ -30,7 +30,7 @@ Introduction: In today's global market, businesses are under increasing pressure
 ## Revenue Generation:
 1. Selling the System:
     - Offer the Eco-Friendly Membership Rewards Program system as a service to other companies.
-    - Provide a tailored version of the program, integrated into their CRM and ERP systems.
+    - Provide a tailored version of the program, integrated into their CRM and ERP systems.(possible but it didn't relate to the topic of ecommerce platform.)
     - Generate revenue by licensing the system and offering ongoing support and customization services.
 
 ## Conclusion:
