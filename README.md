@@ -38,3 +38,6 @@ Implementing an Eco-Friendly Membership Rewards Program is a strategic step towa
 
 # Powerpoint
 [Proposal for Creating an Eco-Friendly Membership Rewards Program](https://www.canva.com/design/DAFzk7Vso5E/rxK3KKsvK-BMl1WYyl4SeQ/edit?utm_content=DAFzk7Vso5E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# website example
+[GREEN HAVEN | Green](https://hubert112247.wixsite.com/green-haven)
