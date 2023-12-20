@@ -41,3 +41,5 @@ Implementing an Eco-Friendly Membership Rewards Program is a strategic step towa
 
 # website example
 [GREEN HAVEN | Green](https://hubert112247.wixsite.com/green-haven)
+
+# [Presentation draft](https://docs.google.com/document/d/1iMfLAwgviaZEQbnqZ-jKgw4Yw0vUCx6f/edit?usp=sharing&ouid=109845826698960339007&rtpof=true&sd=true)
