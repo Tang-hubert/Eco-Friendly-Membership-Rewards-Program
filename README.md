@@ -36,10 +36,11 @@ Introduction: In today's global market, businesses are under increasing pressure
 ## Conclusion:
 Implementing an Eco-Friendly Membership Rewards Program is a strategic step towards sustainability for Adidas and other companies. This program not only aligns with global environmental goals but also enhances customer engagement and brand loyalty. By leveraging data analytics and visualization tools like Power BI and Python, the program's effectiveness can be continuously monitored and improved, ensuring long-term success for both businesses and the environment.
 
-# Powerpoint
+# Proposal Powerpoint
 [Proposal for Creating an Eco-Friendly Membership Rewards Program](https://www.canva.com/design/DAFzk7Vso5E/rxK3KKsvK-BMl1WYyl4SeQ/edit?utm_content=DAFzk7Vso5E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # website example
 [GREEN HAVEN | Green](https://hubert112247.wixsite.com/green-haven)
 
-# [Presentation draft](https://docs.google.com/document/d/1iMfLAwgviaZEQbnqZ-jKgw4Yw0vUCx6f/edit?usp=sharing&ouid=109845826698960339007&rtpof=true&sd=true)
+# [Final Presentation](https://drive.google.com/file/d/1gGBPq4C8vsNZGA88rgmt-qLr0BIjcF-6/view?usp=sharing)
+# [Final Presentation Report](https://docs.google.com/document/d/1iMfLAwgviaZEQbnqZ-jKgw4Yw0vUCx6f/edit?usp=sharing&ouid=109845826698960339007&rtpof=true&sd=true)
